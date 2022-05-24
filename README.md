@@ -7,7 +7,7 @@ project done for high school 2016
 not done completely 
 ```
 
-## Bullet Point
+## for testing the code
 
-* please download all files and unzip them in 1 folder
-* for testing the website run the file with the name :'google' 
+* please download all files and unzip them in one folder
+* run the file with the name :'google' 
