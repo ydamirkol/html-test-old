@@ -10,4 +10,4 @@ not done completely
 ## for testing the code
 
 * please download all files and unzip them in one folder
-* run the file with the name :'google' 
+* run the html file with the name :'google' 
