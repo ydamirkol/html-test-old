@@ -4,7 +4,7 @@
 project done for high school 2016
 
 ```
-not done completely 
+NOT Complete
 ```
 
 ## for testing the code
